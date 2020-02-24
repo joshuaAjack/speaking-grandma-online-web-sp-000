@@ -2,8 +2,6 @@
 def speak_to_grandma(phrase)
   puts #{phrase} 
   reuturn #{phrase}
-else return #{phrase}.uppercase
-end
 end
 
 # Whatever you say to grandma, she should respond with
